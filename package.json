@@ -1,0 +1,21 @@
+{
+  "name": "javascript-actions",
+  "version": "1.0.0",
+  "description": "<img src=\"https://octodex.github.com/images/Professortocat_v2.png\" align=\"right\" height=\"200px\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdsnxtramontin-gabriel/javascript-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/tdsnxtramontin-gabriel/javascript-actions/issues"
+  },
+  "homepage": "https://github.com/tdsnxtramontin-gabriel/javascript-actions#readme"
+}
